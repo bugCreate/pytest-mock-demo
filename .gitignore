@@ -1,0 +1,72 @@
+.DS_Store
+git.properties
+*.userlibraries
+*.log.20*
+*.log
+
+### Intellij ###
+# Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm
+
+*.iml
+*.eml
+
+## Directory-based project format:
+.idea/
+
+## File-based project format:
+*.ipr
+*.iws
+
+## Plugin-specific files:
+
+# IntelliJ
+/out/
+
+# mpeltonen/sbt-idea plugin
+.idea_modules/
+
+# JIRA plugin
+atlassian-ide-plugin.xml
+
+# Python
+__pycache__
+*.pyc
+
+
+# java build files
+target
+node_modules
+gulpfile.js
+
+ftpsync.settings
+
+*.swp
+.DS_Store
+
+# Xcode
+build/*
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+*.xcworkspace
+!default.xcworkspace
+xcuserdata
+profile
+*.moved-aside
+*.cer
+*.p12
+*.mobileprovision
+
+# VSCode
+.vscode
+# AppCode
+.idea
+
+
+swagger.json
+swagger-model.json
